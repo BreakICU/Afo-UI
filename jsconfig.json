@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@afo": ["afo/*"],
+      "afo/*": ["afo/pages/*"]
+    }
+  }
+}
